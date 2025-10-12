@@ -1,3 +1,5 @@
+![Tutoriel logo](assets/image.jpg)
+
 # De-la-terre-la-lune-avec-XR2-Ravenstar
 
 Ces livres sont conçus **pour les Nuls.** Pour attirer de nouveaux clients dans la communauté **d&#39;Orbiter 2024**.
