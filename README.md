@@ -1,4 +1,4 @@
-![XPlaneTouchPortalPlugin logo](assets/XPlaneTouchPortalPlugin.png)
+![XPlaneTouchPortalPlugin logo](De la Terre à la Lune avec le XR2 Ravenstar et Coussini.jpg)
 
 # De-la-terre-la-lune-avec-XR2-Ravenstar
 
