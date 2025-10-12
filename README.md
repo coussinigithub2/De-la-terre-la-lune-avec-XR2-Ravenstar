@@ -16,5 +16,8 @@ C&#39;est une façon simpliste d&#39;aborder **Orbiter 2024** et de profiter d&#
 
 Le grand avantage d&#39;**Orbiter 2024**, c&#39;est qu&#39;il n&#39;est pas lourd en terme d&#39;espace disque et qu&#39;il est gratuit.
 
+### Installation
+Cliquez sur Release à droite pour obtenir un fichier ZIP
+
 **Coussini 2025**
 ###### Dédié à mon bon ami Papyref
